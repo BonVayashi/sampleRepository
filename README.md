@@ -10,7 +10,7 @@ $ echo Hello,world
 *リスト2
 *リスト3
 
-[google](http://google.com)
+[うんち](http://google.com)
 
 `
 $ echo Hello, world
